@@ -11,11 +11,7 @@ a window, or options provided by an external script. You can learn more about Ro
 
 ## Screenshots
 
-| | | |
-| --- | --- | --- |
-| ![rounded-dark](screenshots/rounded-dark.gif) | ![rounded-nord-dark](screenshots/rounded-nord-dark.png) | ![squared](screenshots/squared.gif) |
-| ![spotlight](screenshots/spotlight.gif) | ![launchpad](screenshots/launchpad.png) | ![simple-tokyonight](screenshots/simple-tokyonight.jpg) |
-| ![windows11-grid](screenshots/windows11_grid.jpg) | ![windows11-list](screenshots/windows11_list.jpg) | |
+| ![rounded-dark](screenshots/rounded-dark.gif) |
 
 ## Don't have rofi yet? Install it!
 
