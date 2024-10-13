@@ -11,7 +11,7 @@ a window, or options provided by an external script. You can learn more about Ro
 
 ## Screenshots
 
-| ![rounded-dark](screenshots/rounded-dark.gif) |
+![rounded-dark](screenshots/rounded-dark.gif)
 
 ## Don't have rofi yet? Install it!
 
